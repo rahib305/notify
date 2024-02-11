@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Byteblitz\\Notify\\": "src/"
+            "ByteBlitz\\Notify\\": "src/"
         },
         "files": [
             "src/helpers.php"
