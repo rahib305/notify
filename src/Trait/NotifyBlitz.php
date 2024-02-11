@@ -26,7 +26,7 @@ trait NotifyBlitz
 
     protected bool $saveToDB=false;
     
-    protected string $redirectTo;
+    protected $redirectTo=null;
 
     protected array $attachments = [];
 
