@@ -17,12 +17,6 @@
         }
     ],
     "minimum-stability": "dev",
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://gitlab.com/webcastle-web/byte-blitz"
-        }
-    ],
     "extra": {
         "laravel": {
             "providers": [
