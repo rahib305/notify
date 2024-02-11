@@ -16,7 +16,6 @@
             "name": "ByteBlitz"
         }
     ],
-    
     "minimum-stability": "dev",
     "extra": {
         "laravel": {
